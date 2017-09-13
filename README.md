@@ -17,6 +17,6 @@ npm install
  - `npm run commit`: Commit using conventional commit style ([husky](https://github.com/typicode/husky) will tell you to use it if you haven't :wink:)
 
  ### Open the docs
- - npm run build
- - live-server dist/docs
+ - `npm run build`
+ - `live-server dist/docs`
 
