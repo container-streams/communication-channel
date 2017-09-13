@@ -1,4 +1,6 @@
-# TypeScript library starter
+# Communication Channel
+A library that allow communication between different apps
+
 npm install
 ```
 
@@ -12,7 +14,7 @@ npm install
  - `npm run lint`: Lints code
  - `npm run commit`: Commit using conventional commit style ([husky](https://github.com/typicode/husky) will tell you to use it if you haven't :wink:)
 
- ## Open the docs
+ ### Open the docs
  - npm run build
  - live-server dist/docs
 
