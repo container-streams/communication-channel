@@ -1,6 +1,8 @@
 # Communication Channel
 A library that allow communication between different apps
 
+### Setup project
+```
 npm install
 ```
 
